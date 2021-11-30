@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Helen
 - 👀 I’m interested in implementing solutions
 - 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on front-end development, saas implementations
+- 💞️ I’m looking to collaborate on front-end development
+- 💞️ I also love getting involved in RPA development and evaluation and implementing major Saas platforms
 - 📫 Reach me at helen.g.anderson@me.com 
 
 <!---
