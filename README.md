@@ -2,7 +2,7 @@
 - 👀 I’m interested in implementing solutions
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on front-end development
-- 💞️ I also love getting involved in RPA delivery, business process improvement, and major Saas platforms
+- 💞️ I also love getting involved in RPA, business process improvement, and Saas platforms
 - 📫 Reach me at helen.g.anderson@me.com 
 
 <!---
