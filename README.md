@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Helen
 - 👀 I’m interested in implementing solutions
-- 🌱 I’m currently learning javascript react
+- 🌱 I’m currently learning javascript react, angular and Service Now
 - 💞️ I’m looking to collaborate on front-end development
-- 💻 I also love getting involved in RPA, business process improvement, and Saas platforms
+- 💻 I also love getting involved in RPA and business process improvement
 - 📫 Reach me at helen.g.anderson@me.com 
 
 <!---
