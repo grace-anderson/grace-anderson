@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Helen
-- 👀 I’m interested in implementing solutions
+- 👀 I’m interested in solving problems
 - 🌱 I’m currently learning react and ServiceNow
 - 💞️ I’m looking to collaborate on front-end development
 - 💻 I also love getting involved in RPA and business process improvement
