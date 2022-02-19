@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Helen
+- 👋 Hi, I’m Helen Grace
 - 👀 I’m interested in solving problems
 - 🌱 I’m currently learning react and ServiceNow
 - 💞️ I’m looking to collaborate on front-end development
