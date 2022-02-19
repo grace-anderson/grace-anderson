@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Helen Grace
 - 👀 I’m interested in solving problems
-- 🌱 I’m currently learning react and ServiceNow
+- 🌱 I’m currently learning react, ServiceNow and design thinking
 - 💞️ I’m looking to collaborate on front-end development
-- 💻 I also love getting involved in RPA and business process improvement
+- 💻 I also love getting involved in RPA and business process improvement and redesign
 - 📫 Reach me at helen.g.anderson@me.com 
 
 <!---
