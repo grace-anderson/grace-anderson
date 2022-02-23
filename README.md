@@ -2,7 +2,7 @@
 - 👀 I’m interested in solving problems
 - 🌱 I’m currently learning react, ServiceNow and design thinking
 - 💞️ I’m looking to collaborate on front-end development
-- 💻 I also love getting involved in RPA and business process improvement and redesign
+- 💻 I also love getting involved in RPA, business process redesign and service design
 - 📫 Reach me at helen.g.anderson@me.com 
 
 <!---
