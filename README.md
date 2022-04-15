@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Helen
 - 👀 I’m interested in solving problems
-- 🌱 I’m currently learning react, ServiceNow and design thinking
+- 🌱 I’m currently learning all thinks JavaScript, ServiceNow, and design thinking
 - 💞️ I’m looking to collaborate on front-end development
-- 💻 I also love getting involved in RPA, business process redesign and service design
+- 💻 I also love getting involved in RPA, business process design and service design
 - 📫 Reach me at helen.g.anderson@me.com 
 
 <!---
