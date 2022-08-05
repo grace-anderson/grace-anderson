@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Helen
 - 👀 I’m interested in solving problems
-- 🌱 I’m currently learning all things JavaScript, ServiceNow, and design thinking
-- 💞️ I’m looking to collaborate on front-end development
+- 🌱 I’m currently learning all things JavaScript
+- 💞️ I’m looking to collaborate on full-stack development
 - 💻 I also love getting involved in RPA, business process design and service design
 - 📫 Reach me at helen.g.anderson@me.com 
 
